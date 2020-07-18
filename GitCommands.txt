@@ -2,9 +2,9 @@ Git Commands
 1)Create a Repositroy in the GitHub
 2)intial step:
      i)git init
-3)git congig --global user.email "anjaliyadav1027@gmail.com"
-4)git status
-5)git add file name
+3)git remote add origin "url"
+4)git add file name
+5)git status
 6)git commit -m "SuccessFull"
-7)git push -f origin master
+6)git push -f origin master
 
